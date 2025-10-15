@@ -32,7 +32,7 @@ If you reference this repository in your research or report:
   author={Neupane, Nirbhik and Islam, Md Rakibul},
   year={2025},
   howpublished={GitHub repository},
-  url={https://github.com/nirbhikneup/review2code-llm}
+  url={https://[(https://github.com/nirbhikneup/review2code-llm)]
 }
 
 
